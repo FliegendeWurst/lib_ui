@@ -12,6 +12,7 @@
 #include "ui/text/text.h"
 #include "styles/style_widgets.h"
 
+#include <cstddef>
 #include <memory>
 
 class Painter;
